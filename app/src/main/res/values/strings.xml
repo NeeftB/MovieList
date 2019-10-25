@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="searchHelpText">The most popular movies of</string>
+    <string name="submit">Submit</string>
+    <string name="year_hint">Year?</string>
+    <string name="movie_number">%1$s.</string>
+    <string name="movie_image_description">Image of movie</string>
+    <string name="title_activity_movie_info">MovieInfoActivity</string>
+    <string name="backdrop_image_description">Backdrop Image</string>
+    <string name="poster_image_description">Poster Image</string>
+    <string name="star">Star</string>
+    <string name="overview_title">Overview</string>
+</resources>
